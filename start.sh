@@ -1,0 +1,1 @@
+export CHROME_BIN=/usr/bin/google-chrome; cd ./backend ; node server.js ;   echo "hello"
